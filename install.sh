@@ -1,1 +1,1 @@
-cp -rf .vimrc ~/.vimrc
+cp -raf . ~/
